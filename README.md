@@ -8,7 +8,7 @@ Through the Log files that are provided we can have and overview of what is more
 
 I used Pycharm to run this...and the requirements for it are
   * Tensorflow GPU/CPU
-  ~~* Numpy ~~
+  ~~Numpy~~
   * Keras
   
   
